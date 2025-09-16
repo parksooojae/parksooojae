@@ -1,4 +1,6 @@
-## Hi there :)
+## Hi, I'm Chris :)
+
+Repositories under construction...
 
 <!--
 **parksooojae/parksooojae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
