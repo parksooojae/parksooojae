@@ -1,4 +1,4 @@
 I like to break things
 
 currently working on: 
-- jepa replication
+-  zip-rc paper rep
